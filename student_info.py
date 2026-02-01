@@ -1,3 +1,8 @@
+# Student Information Card
+# This program displays a formatted profile card with student details
+# including name, major, graduation year, contact info, and interests
+
+# Student personal information
 name = "D'Eriq Sanders"
 major = "Information Technology"
 graduation_year = "2026 🧑🏾‍🎓"
